@@ -1,3 +1,0 @@
-pytelegrambotapi
-Flask
-gunicorn
